@@ -37,3 +37,8 @@ You are going to to be creating a link shortener. This link shortener must:
 
 * Deploy your code to [Heroku](https://www.heroku.com/)
 * Provide good documentation
+* Finish your project in 3 hours or less
+
+## Last, but not least..
+
+Good luck!
