@@ -35,5 +35,5 @@ You are going to to be creating a link shortener. This link shortener must:
 
 ## Bonus points if you...
 
-* Deploy your code to Heroku
+* Deploy your code to [Heroku](https://www.heroku.com/)
 * Provide good documentation
