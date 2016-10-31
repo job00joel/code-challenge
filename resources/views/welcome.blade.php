@@ -26,6 +26,7 @@
 								<td>Created</td>
 								<td>Short URL</td>
 								<td>All clicks</td>
+								<td></td>
 							</tr>
 						</thead>
 						<tbody>
