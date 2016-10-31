@@ -1,0 +1,53 @@
+a {
+  text-decoration: none !important;
+}
+h1 {
+  font-family: 'Michroma';
+}
+.back {
+  position: absolute;
+  font-size: 18px;
+  left: -1em;
+}
+.center {
+  float: none;
+  margin: 0 auto;
+}
+.clicks {
+  border: 1px solid #ccc;
+  padding: 0.5em 1em;
+  width: 7.5em;
+}
+.clicks h3 {
+  margin: 0;
+  font-size: 2.5em;
+}
+.chart {
+  position: relative;
+}
+.copy {
+  cursor: pointer;
+  display: none;
+  font-size: 1.2em;
+  margin-left: 0.5em;
+  padding: 0.3em;
+}
+.form {
+  text-align: center;
+}
+.slogan {
+  font-family: 'Poiret One';
+  font-size: 18px;
+  text-align: center;
+}
+.table tr {
+  -webkit-transition: background-color 3s linear;
+  transition: background-color 3s linear;
+}
+.timeframe {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
